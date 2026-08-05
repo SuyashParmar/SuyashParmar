@@ -1,8 +1,5 @@
 # 💫 Hey! I am Suyash Parmar🙂
-I’m a Full Stack Software Developer with strong knowledge of modern web development and scalable system design.
-I build end-to-end applications, working across frontend, backend, and DevOps workflows.
-I enjoy automating deployments, improving performance, and writing clean, maintainable code.
-I actively contribute to open-source projects and believe in continuous learning and collaboration.
+I'm a software engineer passionate about designing reliable applications, integrating AI into real-world products, and solving complex engineering problems. I enjoy working across the full software stack—from frontend experiences to backend services, cloud infrastructure, and deployment pipelines.
 
 
 ## 🌐 Socials:
