@@ -1,5 +1,15 @@
 # 💫 Hey! I am Suyash Parmar🙂
+# Software Engineer | AI/ML | Open Source
 I'm a software engineer passionate about designing reliable applications, integrating AI into real-world products, and solving complex engineering problems. I enjoy working across the full software stack—from frontend experiences to backend services, cloud infrastructure, and deployment pipelines.
+## 🚀 What I'm Interested In
+
+- 🤖 AI/ML applications and LLM-powered products
+- ⚡ Backend engineering and distributed systems
+- 🌐 Full Stack Development
+- 🐳 Cloud-native applications & DevOps
+- 🔄 Automation and workflow optimization
+- 📦 Open Source Contributions
+- 📈 Performance optimization & scalable architectures
 
 
 ## 🌐 Socials:
